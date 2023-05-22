@@ -53,7 +53,7 @@ public class Game implements KeyListener {
         frame.addKeyListener(this);
         frame.pack();
         frame.setVisible(true);
-    } //elo
+    }
 
     /**
      * Called when the key is pressed down. Passes the key press on to the GamePanel.
